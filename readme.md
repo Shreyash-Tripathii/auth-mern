@@ -1,7 +1,8 @@
 **Welcome to my Auth Project built using MERN Stack**
 To run this project please use the following commands...
 ```
-cd backend
+git clone https://github.com/Shreyash-Tripathii/auth-mern.git
+cd auth-mern/backend
 npm install
 ```
 Create a .env file and place the appropriate value for **"MONGO_URL" and TOKEN_KEY, and set PORT to 3000**.

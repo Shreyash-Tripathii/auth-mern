@@ -4,7 +4,7 @@ To run this project please use the following commands...
 cd backend
 npm install
 ```
-Go to the .env file and place the appropriate value for **"MONGO_URL" and TOKEN_KEY**
+Create a .env file and place the appropriate value for **"MONGO_URL" and TOKEN_KEY**
 After that to run the backend simply type: 
 ```
 npm start

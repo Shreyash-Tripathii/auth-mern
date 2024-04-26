@@ -14,7 +14,7 @@ mongoose
     console.log("Connect to db successfully");
   })
   .catch((err) => {
-    console.log(error);
+    console.log(err);
   });
 
 const app = express();
